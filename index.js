@@ -7,4 +7,6 @@ program
   .version('1.0.3')
   .parse(process.argv)
 
-exports.default = color
+module.exports = {
+  color
+}

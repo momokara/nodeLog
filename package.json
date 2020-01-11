@@ -1,6 +1,6 @@
 {
   "name": "node_echocolor",
-  "version": "1.0.03",
+  "version": "1.0.04",
   "description": "输出彩色的文字",
   "main": "index.js",
   "scripts": {

@@ -3,7 +3,8 @@
 ```
 使用形式如
 
-let { color } = require('./bin/fontStyle')
+const {color} = require('node_echocolor')
+console.log(color().add('red').echo('123'))
 console.log(color().add(['lightGreenBG', 'red']).echo('h'));
 ```
 

@@ -9,8 +9,8 @@ console.log(color().add(['lightGreenBG', 'red']).echo('h'));
 
 可以使用预设颜色 add 可以使用的参数
 
-参数 值  效果 
-------------  ----- 
+参数 值 |  效果 
+------------ | ----- 
 'bright' | 亮色 
 'grey' | 灰色 
 'italic' | 斜体 
@@ -50,8 +50,7 @@ console.log(color().add(['lightGreenBG', 'red']).echo('h'));
 'lightYelloBG' | '[103m'
 'lightBlueBG' | '[104m'
 'lightMagentaBG' | '[105m'
-'lightCyanBG' | '[106m'
-----------
+'lightCyanBG' | '[
 
 使用数字 也可以使用 88/256 Colors 编码颜色
 参考地址 [颜色编码](https://misc.flogisoft.com/bash/tip_colors_and_formatting)

@@ -1,0 +1,44 @@
+{
+  "color": {
+    "bright": "[1m",
+    "grey": "[2m",
+    "italic": "[3m",
+
+    "underline": "[4m",
+    "blink ": "[5m",
+    "reverse": "[7m",
+    "hidden": "[8m",
+
+    "black": "[30m",
+    "red": "[31m",
+    "green": "[32m",
+    "yellow": "[33m",
+    "blue": "[34m",
+    "magenta": "[35m",
+    "cyan": "[36m",
+    "lightGray": "[37m",
+    "darkGray": "[90m",
+    "lightRed": "[91m",
+    "lightGreen": "[92m",
+    "lightYello": "[93m",
+    "lightBlue": "[94m",
+    "lightMagenta": "[95m",
+    "lightCyan": "[96m",
+
+    "blackBG": "[40m",
+    "redBG": "[41m",
+    "greenBG": "[42m",
+    "yellowBG": "[43m",
+    "blueBG": "[44m",
+    "magentaBG": "[45m",
+    "cyanBG": "[46m",
+    "lightGrayBG": "[47m",
+    "darkGrayBG": "[100m",
+    "lightRedBG": "[101m",
+    "lightGreenBG": "[102m",
+    "lightYelloBG": "[103m",
+    "lightBlueBG": "[104m",
+    "lightMagentaBG": "[105m",
+    "lightCyanBG": "[106m"
+  }
+}

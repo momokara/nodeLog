@@ -54,4 +54,5 @@ console.log(color().add(['lightGreenBG', 'red']).echo('h'));
 
 使用数字 也可以使用  88/256 Colors 编码颜色
 参考地址 [颜色编码](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
+[github](https://github.com/momokara/nodeLog)
 ```
